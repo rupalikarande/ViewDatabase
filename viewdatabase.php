@@ -19,7 +19,7 @@ $dob="";
  
   
   
-  $sql = "SELECT * FROM table1";
+$sql = "SELECT * FROM table1";
 
 $sql = "SELECT Name,Phone_No,Address,City,Email,DOB FROM textdemo";
  //$result = mysqli_query($conn, $sql);
